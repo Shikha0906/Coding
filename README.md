@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shikha0906/Coding/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shikha0906/Coding/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

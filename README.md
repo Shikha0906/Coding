@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shikha0906/Coding/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shikha0906/Coding/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikha0906/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikha0906/Coding/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shikha0906/Coding/tree/master/3514-number-of-unique-xor-triplets-ii) |

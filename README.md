@@ -60,4 +60,12 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Shikha0906/Coding/tree/master/3536-maximum-product-of-two-digits) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shikha0906/Coding/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shikha0906/Coding/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

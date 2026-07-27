@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikha0906/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikha0906/Coding/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -61,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shikha0906/Coding/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -72,4 +74,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shikha0906/Coding/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shikha0906/Coding/tree/master/0024-swap-nodes-in-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

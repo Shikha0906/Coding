@@ -13,11 +13,13 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikha0906/Coding/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shikha0906/Coding/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shikha0906/Coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -109,4 +112,12 @@
 | [1045-customers-who-bought-all-products](https://github.com/Shikha0906/Coding/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/Shikha0906/Coding/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Shikha0906/Coding/tree/master/1341-movie-rating) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

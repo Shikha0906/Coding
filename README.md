@@ -102,4 +102,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shikha0906/Coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/Shikha0906/Coding/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->

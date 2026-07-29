@@ -117,13 +117,23 @@
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->

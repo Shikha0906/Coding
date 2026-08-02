@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shikha0906/Coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shikha0906/Coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -54,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikha0906/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shikha0906/Coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -165,5 +167,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->

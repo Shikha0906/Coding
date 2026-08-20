@@ -21,6 +21,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikha0906/Coding/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shikha0906/Coding/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +162,7 @@
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,4 +197,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

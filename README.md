@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikha0906/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -63,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikha0906/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikha0906/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -178,6 +180,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikha0906/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

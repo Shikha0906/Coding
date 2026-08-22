@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shikha0906/Coding/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Shikha0906/Coding/tree/master/0051-n-queens) |
+| [0289-game-of-life](https://github.com/Shikha0906/Coding/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
@@ -59,11 +60,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Shikha0906/Coding/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Shikha0906/Coding/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shikha0906/Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String

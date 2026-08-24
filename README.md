@@ -14,6 +14,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikha0906/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikha0906/Coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -44,6 +45,7 @@
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikha0906/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikha0906/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shikha0906/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -172,6 +174,7 @@
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -192,6 +195,7 @@
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,10 +207,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -215,4 +221,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->

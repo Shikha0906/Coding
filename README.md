@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shikha0906/Coding/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Shikha0906/Coding/tree/master/0051-n-queens) |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [0289-game-of-life](https://github.com/Shikha0906/Coding/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/Shikha0906/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikha0906/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikha0906/Coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikha0906/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikha0906/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shikha0906/Coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -172,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
@@ -227,4 +231,16 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

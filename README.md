@@ -17,6 +17,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikha0906/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikha0906/Coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shikha0906/Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -69,6 +70,7 @@
 | [0289-game-of-life](https://github.com/Shikha0906/Coding/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

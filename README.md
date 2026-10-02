@@ -82,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikha0906/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shikha0906/Coding/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shikha0906/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -152,6 +153,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shikha0906/Coding/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Shikha0906/Coding/tree/master/0051-n-queens) |
 ## Combinatorics
 |  |
@@ -179,6 +181,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shikha0906/Coding/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shikha0906/Coding/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shikha0906/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack

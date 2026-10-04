@@ -86,6 +86,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
+| [0678-valid-parenthesis-string](https://github.com/Shikha0906/Coding/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shikha0906/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikha0906/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -186,6 +187,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Shikha0906/Coding/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
@@ -203,6 +205,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shikha0906/Coding/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikha0906/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shikha0906/Coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -259,6 +262,7 @@
 | [0020-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shikha0906/Coding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shikha0906/Coding/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shikha0906/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
@@ -266,5 +270,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shikha0906/Coding/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shikha0906/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->

@@ -86,6 +86,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikha0906/Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shikha0906/Coding/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Shikha0906/Coding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shikha0906/Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shikha0906/Coding/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Shikha0906/Coding/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0301-remove-invalid-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Greedy
 |  |

@@ -20,6 +20,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shikha0906/Coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shikha0906/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shikha0906/Coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikha0906/Coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shikha0906/Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -40,6 +41,7 @@
 | [0139-word-break](https://github.com/Shikha0906/Coding/tree/master/0139-word-break) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shikha0906/Coding/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shikha0906/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shikha0906/Coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shikha0906/Coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikha0906/Coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shikha0906/Coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shikha0906/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shikha0906/Coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -301,4 +304,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shikha0906/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shikha0906/Coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->

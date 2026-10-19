@@ -18,6 +18,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shikha0906/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikha0906/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shikha0906/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shikha0906/Coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shikha0906/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shikha0906/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shikha0906/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shikha0906/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikha0906/Coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shikha0906/Coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikha0906/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |

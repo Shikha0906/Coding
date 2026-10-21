@@ -113,6 +113,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shikha0906/Coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikha0906/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shikha0906/Coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Shikha0906/Coding/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Enumeration
 |  |
 | ------- |

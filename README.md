@@ -33,6 +33,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shikha0906/Coding/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shikha0906/Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shikha0906/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shikha0906/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shikha0906/Coding/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -88,6 +89,7 @@
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shikha0906/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shikha0906/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shikha0906/Coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shikha0906/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -238,12 +241,14 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shikha0906/Coding/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shikha0906/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shikha0906/Coding/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Shikha0906/Coding/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shikha0906/Coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shikha0906/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |

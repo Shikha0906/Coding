@@ -37,6 +37,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shikha0906/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shikha0906/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Shikha0906/Coding/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shikha0906/Coding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shikha0906/Coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shikha0906/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -243,6 +244,7 @@
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shikha0906/Coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3620-network-recovery-pathways](https://github.com/Shikha0906/Coding/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/Shikha0906/Coding/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shikha0906/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |

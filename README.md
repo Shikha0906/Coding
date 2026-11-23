@@ -15,6 +15,7 @@
 | [1260-shift-2d-grid](https://github.com/Shikha0906/Coding/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Shikha0906/Coding/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shikha0906/Coding/tree/master/1301-number-of-paths-with-max-score) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shikha0906/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shikha0906/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shikha0906/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -68,6 +69,7 @@
 | [0007-reverse-integer](https://github.com/Shikha0906/Coding/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/Shikha0906/Coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shikha0906/Coding/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shikha0906/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Shikha0906/Coding/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shikha0906/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
@@ -310,6 +312,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shikha0906/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/Shikha0906/Coding/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shikha0906/Coding/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
@@ -374,4 +377,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shikha0906/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shikha0906/Coding/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shikha0906/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
